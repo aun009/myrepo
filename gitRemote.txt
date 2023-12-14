@@ -3,3 +3,5 @@ Consistency is the only key to success
 Nothing
 
 New change
+
+Added new change 2
